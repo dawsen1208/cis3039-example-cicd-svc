@@ -20,7 +20,7 @@ export const getProductRepo = (): ProductRepo => {
       {
         id: 'p-002',
         name: 'Seeded Gadget',
-        pricePence: 1111,
+        pricePence: 1121,
         description: 'Another seeded product to get you started.',
         updatedAt: now,
       },
